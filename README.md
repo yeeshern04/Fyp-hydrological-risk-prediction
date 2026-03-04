@@ -19,7 +19,8 @@ Hyperparameter tuning was conducted using **Optuna** to ensure optimal model per
 1. Clone this repository:
    `git clone https://github.com/your-username/water-management-pattern-recognition.git`
 2. Navigate to the project directory:
-   `cd water-management-pattern-recognition`
+   `cd []`
 3. Install the required dependencies:
    `pip install -r requirements.txt`
+
 4. Run the Jupyter notebooks in the `notebooks/` directory to view the data preprocessing and model training steps.
